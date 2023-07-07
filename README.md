@@ -1,14 +1,9 @@
-# Expo Router Example
+# Running the app
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
+First run the app using the command:
 
 ```sh
-npx create-expo-app -e with-router
+npm start
 ```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+Then navigate to the locally hosted web version link that pops up in the terminal.
+To see the mobile version, download the expo app from playstore and then scan the qr code that pops up in the terminal.
